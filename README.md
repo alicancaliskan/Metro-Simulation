@@ -2,7 +2,7 @@ Metro Simülasyonu
 
 Proje Açıklaması
 
-Bu proje, Ankara metrosundaki iki istasyon arasındaki en kısa ve en hızlı rotaları bulan bir Python programıdır. Yeni mezun bir bilgisayar programcısı olarak öğrendiğim algoritmaları uygulamak için geliştirdiğim bir proje. Rotaları hesaplamak için BFS ve Dijkstra algoritmalarını kullandım. 🚇
+Bu proje, Ankara metrosundaki iki istasyon arasındaki en kısa ve en hızlı rotaları bulan bir Python programıdır. Yeni mezun bir bilgisayar programcısı olarak öğrendiğim algoritmaları uygulamak için geliştirdiğim bir proje. Rotaları hesaplamak için BFS ve Dijkstra algoritmalarını kullandım.
 
 Özellikler
 
@@ -19,18 +19,6 @@ Python 3
 Veri Yapıları: Listeler, sözlükler ve öncelik kuyruğu
 
 Algoritmalar: BFS ve Dijkstra
-
-Kurulum
-
-Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsin:
-
-Python 3 yüklü olduğundan emin ol.
-
-Dosyayı indir veya projeyi klonla.
-
-Terminal veya komut istemcisinde şu komutu çalıştır:
-
-python metro_simulation.py
 
 Örnek Çıktılar
 
@@ -49,17 +37,4 @@ Programı çalıştırdığında şöyle bir çıktı alacaksın:
    En az aktarmalı rota: Keçiören -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
    En hızlı rota (19 dakika): Keçiören -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
 
-Geliştirme ve Katkı
-
-Projeyi geliştirmek istersen:
-
-Kendi fork’unu oluştur.
-
-Yeni özellik ekle veya hata düzeltmesi yap.
-
-Pull Request açarak katkıda bulun! 😊
-
-Lisans
-
-Bu proje MIT lisansı ile paylaşılmıştır. İstediğin gibi geliştirip kullanabilirsin! 🚀
 
