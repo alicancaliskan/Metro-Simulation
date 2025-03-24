@@ -1,8 +1,6 @@
 Metro Simülasyonu
 
-Proje Açıklaması
-
-Bu proje, Ankara metrosundaki iki istasyon arasındaki en kısa ve en hızlı rotaları bulan bir Python programıdır. Yeni mezun bir bilgisayar programcısı olarak öğrendiğim algoritmaları uygulamak için geliştirdiğim bir proje. Rotaları hesaplamak için BFS ve Dijkstra algoritmalarını kullandım.
+Bu proje, Ankara metrosundaki istasyonlar arasında en az aktarmalı ve en hızlı rotaları bulan bir Python uygulamasıdır. Proje, yeni mezun bir bilgisayar programcılığı öğrencisinin anlayabileceği kadar sade ve temiz bir şekilde kodlanmıştır.
 
 Özellikler
 
